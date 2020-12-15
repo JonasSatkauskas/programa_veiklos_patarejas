@@ -1,0 +1,1 @@
+# programa_veiklos_patarejas
