@@ -3,3 +3,4 @@ Bus galima pasirinkti iš atitinkamų kategorijų kurios turės veiklas"""
 
 # DICTIONARY KURIAME YRA VEIKLU KATEGORIJOS IR VEIKLOS
 
+# FUNKCIJOS
