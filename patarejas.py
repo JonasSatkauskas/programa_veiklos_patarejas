@@ -39,3 +39,4 @@ for i in main_kategorijos.values():
     time.sleep(0.2)
     z += 1
 
+
