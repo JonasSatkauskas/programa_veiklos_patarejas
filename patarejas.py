@@ -29,3 +29,13 @@ pramogu_kategorijos = {
 
 # LOGIKA
 
+print('''SVEIKI SVEIKI, PATARSIME KA VEIKTI KAI NERA KA VEIKTI''')
+time.sleep(1.5)
+input('SPAUSKITE ENTER, KAD ISSIRINKTUMETE IS KATEGORIJU')
+
+z = 1
+for i in main_kategorijos.values():
+    print(f'{z}. {i}')
+    time.sleep(0.2)
+    z += 1
+
