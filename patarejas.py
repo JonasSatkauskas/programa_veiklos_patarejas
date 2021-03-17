@@ -1,16 +1,35 @@
 """Ši programa patars ką veikti kai nėra ką veikti.
 Bus galima pasirinkti iš atitinkamų kategorijų kurios turės veiklas"""
 
-# DICTIONARY KURIAME YRA VEIKLU KATEGORIJOS IR VEIKLOS
+import random
+import time
 
-kategorijos_veiklos = {
+# VEIKLU IR KATEGORIJU DICTIONARIES
+
+# SIS SARASAS VISADA BUS RODOMAS PIRMAS
+
+main_kategorijos = {
     1: 'Pramogos',
     2: 'Mokslai',
     3: 'Namų ruoša',
-    4: 'Muzika',
-    5: 'Socializavimasis'
+    4: 'Sportas',
+    5: 'Valgis',
+    6: 'Skaitymas (knygos stiliai)',
 }
 
-# FUNKCIJOS
+# MAIN KATEGORIJOS NR. 1 SUBKATEGORIJOS
+
+pramogu_kategorijos = {
+    1: 'Pasiziurek YouTube',
+    2: 'Pasiziurek filma',
+    3: 'Paieskok naujos muzikos',
+    4: 'Pasivaikščiok',
+    5: 'Pavazinek dviraciu'
+}
+
+# LOGIKA
+
+
+
 
 
