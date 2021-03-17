@@ -29,7 +29,3 @@ pramogu_kategorijos = {
 
 # LOGIKA
 
-
-
-
-
