@@ -30,13 +30,22 @@ pramogu_kategorijos = {
 # LOGIKA
 
 print('''SVEIKI SVEIKI, PATARSIME KA VEIKTI KAI NERA KA VEIKTI''')
-time.sleep(1.5)
+time.sleep(1)
 input('SPAUSKITE ENTER, KAD ISSIRINKTUMETE IS KATEGORIJU')
+print()
 
-z = 1
-for i in main_kategorijos.values():
-    print(f'{z}. {i}')
-    time.sleep(0.2)
-    z += 1
+for numeris, veikla in main_kategorijos.items():
+    print(f"{numeris}: {veikla}")
+    time.sleep(random.uniform(0.1, 0.5))
+
+print()
+time.sleep(1.5)
+pasirinkimas = input("Įveskite skaičių ir spauskite enter\n")
+
+if int(pasirinkimas) == 1:
+    print()
+    for numeris, veikla in pramogu_kategorijos.items():
+        print(f"{numeris}: {veikla}")
+        time.sleep(random.uniform(0.1, 0.5))
 
 
