@@ -27,7 +27,7 @@ pramogu_kategorijos = {
     5: 'Pavazinek dviraciu'
 }
 
-# LOGIKA
+# LOGIKA (LOOPAS)
 
 print('''SVEIKI SVEIKI, PATARSIME KA VEIKTI KAI NERA KA VEIKTI''')
 time.sleep(1)
