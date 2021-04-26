@@ -35,6 +35,16 @@ mokslu_kategorijos = {
     5: 'Pasimokyti sudėti rubiko kubą',
 }
 
+# MAIN KATEGORIJOS NR. 3 SUBKATEGORIJOS
+
+namu_ruosos_kategorijos = {
+    1: 'Išsiurbliuoti namus',
+    2: 'Su drėgnu išvalyti grindis',
+    3: 'Placeholder',
+    4: 'Placeholder',
+    5: 'Placeholder',
+}
+
 # LOGIKA (LOOPAS)
 
 print('''SVEIKI SVEIKI, PATARSIME KA VEIKTI KAI NERA KA VEIKTI''')
