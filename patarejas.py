@@ -45,6 +45,16 @@ namu_ruosos_kategorijos = {
     5: 'Placeholder',
 }
 
+# MAIN KATEGORIJOS NR. 3 SUBKATEGORIJOS
+
+sporto_kategorijos = {
+    1: 'Pavažinėk dviračiu',
+    2: '4 setai su hanteliais + štanga',
+    3: 'Atsispaudimai + atsilenkimai + planking + pritūpimai',
+    4: 'Tampymosi pratimai',
+    5: 'Placeholder'
+}
+
 # LOGIKA (LOOPAS)
 
 print('''SVEIKI SVEIKI, PATARSIME KA VEIKTI KAI NERA KA VEIKTI''')
