@@ -65,6 +65,19 @@ valgio_kategorijos = {
     5: 'Placeholder',
 }
 
+# MAIN KATEGORIJOS NR. 6 SUBKATEGORIJOS
+# PAGALVOTI APIE GALIMYBĘ APJUNGTI ŽINIŲ PATARĖJĄ SU
+
+################## IDEA: NESTED DICTIONARIES??? #############################
+
+skaitymo_stiliu_kategorijos = {
+    1: 'Skirk 15 min pagrindiniam puslapiui (https://www.15min.lt/)',
+    2: 'Programa "Žinių patarėjas" (pasiūlo naujienų temą)',
+    3: 'Knyga (rinkis mane ir parodysiu žanrus)',
+    4: 'IT websites (https://www.computerworld.com/news/)',
+    5: 'Placeholder',
+}
+
 # LOGIKA (LOOPAS)
 
 print('''SVEIKI SVEIKI, PATARSIME KA VEIKTI KAI NERA KA VEIKTI''')
@@ -92,6 +105,30 @@ if int(kategorijos_pasirinkimas) == 1:
 elif int(kategorijos_pasirinkimas) == 2:
     print()
     for numeris, veikla in mokslu_kategorijos.items():
+        print(f"{numeris}: {veikla}")
+        time.sleep(random.uniform(0.1, 0.5))
+
+elif int(kategorijos_pasirinkimas) == 3:
+    print()
+    for numeris, veikla in namu_ruosos_kategorijos.items():
+        print(f"{numeris}: {veikla}")
+        time.sleep(random.uniform(0.1, 0.5))
+
+elif int(kategorijos_pasirinkimas) == 4:
+    print()
+    for numeris, veikla in sporto_kategorijos.items():
+        print(f"{numeris}: {veikla}")
+        time.sleep(random.uniform(0.1, 0.5))
+
+elif int(kategorijos_pasirinkimas) == 5:
+    print()
+    for numeris, veikla in valgio_kategorijos.items():
+        print(f"{numeris}: {veikla}")
+        time.sleep(random.uniform(0.1, 0.5))
+
+elif int(kategorijos_pasirinkimas) == 6:
+    print()
+    for numeris, veikla in skaitymo_stiliu_kategorijos.items():
         print(f"{numeris}: {veikla}")
         time.sleep(random.uniform(0.1, 0.5))
 
