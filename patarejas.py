@@ -45,7 +45,7 @@ namu_ruosos_kategorijos = {
     5: 'Placeholder',
 }
 
-# MAIN KATEGORIJOS NR. 3 SUBKATEGORIJOS
+# MAIN KATEGORIJOS NR. 4 SUBKATEGORIJOS
 
 sporto_kategorijos = {
     1: 'Pavažinėk dviračiu',
@@ -53,6 +53,16 @@ sporto_kategorijos = {
     3: 'Atsispaudimai + atsilenkimai + planking + pritūpimai',
     4: 'Tampymosi pratimai',
     5: 'Placeholder'
+}
+
+# MAIN KATEGORIJOS NR. 5 SUBKATEGORIJOS
+
+valgio_kategorijos = {
+    1: 'Pasigaminti tai ko paprastai negaminu',
+    2: 'Placeholder',
+    3: 'Placeholder',
+    4: 'Placeholder',
+    5: 'Placeholder',
 }
 
 # LOGIKA (LOOPAS)
