@@ -59,7 +59,7 @@ sporto_kategorijos = {
 
 valgio_kategorijos = {
     1: 'Pasigaminti tai ko paprastai negaminu',
-    2: 'Placeholder',
+    2: 'Pasidaryti matės',
     3: 'Placeholder',
     4: 'Placeholder',
     5: 'Placeholder',
