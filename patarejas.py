@@ -40,7 +40,7 @@ mokslu_kategorijos = {
 namu_ruosos_kategorijos = {
     1: 'Išsiurbliuoti namus',
     2: 'Su drėgnu išvalyti grindis',
-    3: 'Placeholder',
+    3: 'Sutvarkyti seniai tvarkytą spintelę/komodą',
     4: 'Placeholder',
     5: 'Placeholder',
 }
@@ -49,7 +49,7 @@ namu_ruosos_kategorijos = {
 
 sporto_kategorijos = {
     1: 'Pavažinėk dviračiu',
-    2: '4 setai su hanteliais + štanga',
+    2: "Eik į Gym'ą",
     3: 'Atsispaudimai + atsilenkimai + planking + pritūpimai',
     4: 'Tampymosi pratimai',
     5: 'Placeholder'
