@@ -75,7 +75,7 @@ skaitymo_stiliu_kategorijos = {
     2: 'Programa "Žinių patarėjas" (pasiūlo naujienų temą)',
     3: 'Knyga (rinkis mane ir parodysiu žanrus)',
     4: 'IT websites (https://www.computerworld.com/news/)',
-    5: 'Placeholder',
+    5: 'Ethical hacking info',
 }
 
 # LOGIKA (LOOPAS)
