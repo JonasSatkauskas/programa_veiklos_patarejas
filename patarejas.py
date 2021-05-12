@@ -41,7 +41,7 @@ namu_ruosos_kategorijos = {
     1: 'Išsiurbliuoti namus',
     2: 'Su drėgnu išvalyti grindis',
     3: 'Sutvarkyti seniai tvarkytą spintelę/komodą',
-    4: 'Placeholder',
+    4: 'Nusivalyti techniką',
     5: 'Placeholder',
 }
 
