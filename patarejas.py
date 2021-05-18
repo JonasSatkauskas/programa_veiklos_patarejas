@@ -78,6 +78,15 @@ skaitymo_stiliu_kategorijos = {
     5: 'Ethical hacking info',
 }
 
+skaitymas_knygos = {
+    1: 'Psychology',
+    2: 'Cryptocurrency',
+    3: 'Ethical hacking',
+    4: 'Anonimity',
+    5: 'Philosophy',
+    6: 'Fantasy',
+}
+
 # LOGIKA (LOOPAS)
 
 print('''SVEIKI SVEIKI, PATARSIME KA VEIKTI KAI NERA KA VEIKTI''')
